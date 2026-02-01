@@ -1,7 +1,7 @@
 # Calculadora-de-IMC
 Programa para calcular el IMC de personas adultas
 Crear un programa que pida al usuario su nombre, apellido paterno, apellido materno, edad, peso y estatura, desplegarlos en pantalla 
-junto con su Índice deMasa Corporal (IMC).
+junto con su Índice de Masa Corporal (IMC).
 El programa no puede permitir que ningún dato quede vacío, además de asegurarse de que en los campos de edad, peso y estatura el usuario 
 introduzca una cifra. Todo esto antes de proceder con el cálculo del IMC siguiendo la fórmula:
 IMC = Peso / estatura^2 -> Peso sobre estatura al cuadrado
