@@ -1,4 +1,5 @@
 # Calculadora-de-IMC
+Mi nombre es Agustin Rascon y estoy en un curso de Python.
 Programa para calcular el IMC de personas adultas
 Crear un programa que pida al usuario su nombre, apellido paterno, apellido materno, edad, peso y estatura, desplegarlos en pantalla 
 junto con su Índice de Masa Corporal (IMC).
